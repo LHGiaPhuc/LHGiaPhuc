@@ -1,4 +1,4 @@
-# Hi, I'm Gia Phuc
+# Hi, I'm Le Ho Gia Phuc
 
 ### Computer Science student · Data Analytics · Business Intelligence
 
